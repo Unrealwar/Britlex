@@ -2203,6 +2203,30 @@ nav ul a.btn > .material-icons, nav ul a.btn-large > .material-icons, nav ul a.b
         margin-right: 13px;
     }
 }
+@media screen and (max-width: 492px) {
+    .sidenav {
+        width: 400px;
+    }
+    .header {
+        padding: 0;
+        max-width: 492px;
+    }
+    .container {
+        max-width: 432px;
+        margin: 0 32px 0; 
+    }
+    .header__text-left {
+    }
+    .text__flex-left {
+        margin-top: 20px;
+        max-width: 342px;
+        width: 100%;
+    }
+    .btn__flex-left {
+        margin-left: 18px;
+    }
+
+}
 @media screen and (max-width: 320px) {
     .sidenav {
         width: 320px;
