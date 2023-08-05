@@ -2212,7 +2212,7 @@ nav ul a.btn > .material-icons, nav ul a.btn-large > .material-icons, nav ul a.b
         max-width: 492px;
     }
     .container {
-        max-width: 432px;
+        max-width: 390px;
         margin: 0 32px 0; 
     }
     .text__flex-left {
@@ -2225,9 +2225,9 @@ nav ul a.btn > .material-icons, nav ul a.btn-large > .material-icons, nav ul a.b
     }
 
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 390px) {
     .sidenav {
-        width: 320px;
+        width: 380px;
     }
     .header__flex-logo {
         width: 71px;
